@@ -72,8 +72,8 @@ AI + Cybersecurity → AI Security
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Add your LinkedIn]
-- 📧 Email: [Add your email]
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- 📧 Email: [omdabhade1584@gmail.com]
+- 🐙 GitHub: [@omdabhade1584-ai](https://github.com/YOUR_USERNAME)
 
 ---
 
